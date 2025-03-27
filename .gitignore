@@ -1,0 +1,8 @@
+# Ignore all log files
+*.log
+og es
+# Ignore the node_modules di rectory
+node_modul es/
+
+# Ignore envi ronment fi les
+* . env
